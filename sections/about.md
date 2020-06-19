@@ -12,7 +12,7 @@ sidebar_sort_order: 1
 </div>
 
 
-#Welcome
+# Welcome
 
 > Dear Dr. *Verbal*,
 
