@@ -11,12 +11,12 @@ sidebar_sort_order: 5
 {:toc}
 </div>
 
-We take two approaches to analyze differences in model behavior. First, we
-explore model behavior by hand. Second, we explore it by large scale simulation.
+We take two approaches to analyse differences in model behaviour. First, we
+explore model behaviour by hand. Second, we explore it by large scale simulation.
 
 # Comparing model behavior by hand
 If you were already comparing the three models on the previous page, you
-may have noticed differences in behavior. If not, you can use the following
+may have noticed differences in behaviour. If not, you can use the following
 code box to try different groups and see what selection of invitees each
 model makes.
 
